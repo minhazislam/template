@@ -1,0 +1,262 @@
+@media screen and (max-width: 600px) {
+    
+.flex-facdori
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+    .flex-mon{
+        padding:20px 0px;
+        
+    }
+    .factor{
+        padding: 20px 0px;
+    }
+    .phone{
+    padding-left:0px;
+}
+   .mark{
+   padding-left:0px;  
+}
+    .flex-home-su{
+        display: flex;
+        
+    } 
+    .page ul{
+        flex-direction: column;
+        
+    }
+    .page ul li {
+        padding:10px 0px;
+    }
+    .flex-buile{
+        padding:60px 0px;
+    }
+    .flex-buile h1{
+        padding:0px;
+        font-size: 40px;
+    }
+    .btn{
+        padding:24px 40px;
+    }
+    .flex-get{
+        display: flex;
+        flex-direction: column;
+        margin:0 auto;
+        padding:0px; 
+        padding:20px 0px;
+        
+    }
+    .get-left h1{
+        padding-right:0px;
+        padding:0px;
+        
+    }
+    .get-hr{
+        width:100px;
+        margin-left:25px;
+    }
+    .get-left p{
+        padding: 0px;
+    }
+    .let-1 free-phone{
+        padding:0px;
+        
+    }
+    .let-1 h4{
+        padding-top:0px;
+    }
+    .flex-work-that  h1{
+        padding:0px;
+        font-size:30px;
+    }
+    .btn-3{
+     padding:20px 40px;
+    }
+    .flex-chakec{
+        display: flex;
+        flex-direction: column;
+    }
+    .flex-chakce-left h1{
+        font-size:20px;
+        padding:0px;
+    }
+    .btnn{
+        padding:20px 10px;
+    }
+    .flex-due p{
+        font-size:10px;
+        padding-top:10px;
+    }
+    .rose img{
+        width:150px;
+        height:120px;
+    
+    }
+    .rose{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .flex-chakc-right{
+        padding-top:0px;
+    }
+    .flex-chakce-left{
+        padding:40px 0px;
+    }
+    .flex-welding{
+        display: flex;
+        flex-direction: column;
+    }
+    .precess-one{
+        padding:50px 0px;
+        font-size:20px;
+        padding-left:90px;
+      
+    }
+    .birds{
+        width:auto;
+        padding:0px;
+    }
+    .birds p{
+        padding:0px 90px;
+    }
+    .birds-one h2{
+        font-size:30px;
+        padding-left:90px;
+    }
+    .botton-call{
+        margin:0 auto;
+        width:100%;
+        margin-left:90px;
+        margin-top:40px;
+    }
+     .our-hr{
+        width:100px;
+        margin-left:50px;
+    }
+    .flex-pepole{
+        display: flex;
+        flex-direction: column;
+        padding:0px;
+        margin: 0 auto;
+    }
+    
+    .pepole-left{
+        width:100%;
+        margin: 0 auto;
+        padding-top:30px;
+    }
+    .pepole-left h4{
+        font-size:16px;
+    }
+    .pepole-left h1{
+        font-size:30px;
+    }
+    .bottonm{
+        padding-bottom: 50px;
+    }
+    .pepole-right{
+        width:100%;
+        margin:0 auto;
+        padding:0px;
+    }
+    .pepole-right-one{
+        width:100%;
+        margin:0 auto;
+        padding:0px;
+    }
+    .flex-complet{
+        display: flex;
+        flex-direction: column;
+        padding:0px;
+    }
+    .complet-left h1{
+     font-size:40px;
+    }
+    .flex-fell{
+        display: flex;
+        flex-direction: column;
+        padding:20px 0px;
+    }
+    .fell-right{
+        width:100%;
+        margin:0 auto;
+        padding:0px;
+    }
+    .fell-left{
+        width:100%;
+        margin:0 auto;
+        padding:0px;
+    }
+    .fell-left h1{
+        font-size:30px;
+    }
+    .fell-left h3{
+        font-size:30px;
+        padding-bottom:20px;
+    }
+    .fell-left h2{
+        font-size:30px;
+    } 
+    .inputt{
+       padding:32px  70px 32px 36px;
+    }
+    .inputtmi{
+        padding:32px  70px 50px 36px;
+    }
+    .bnttn{
+        padding:20px 30px;
+    }
+    .flex-updet{
+        display:flex;
+        flex-direction: column;
+        padding:20px 0px;;
+    }
+    .y-phone{
+        padding:0px;
+    }
+    .updet-sing h4{
+        padding-top:0px;
+    }
+    .inpu{
+        padding:32px  70px 50px 36px;
+        margin-bottom:50px;
+        margin-top:20px;
+    }
+    .flex-about{
+        display: flex;
+        flex-direction: column;
+    }
+    .about-one{
+        width:100%;
+        margin:0 auto;
+        padding:20px 0px;;
+}
+    .about-tow{
+      width:100%;
+     margin:0 auto;
+    padding:40px 0px;
+}
+    .about-three{
+     width:100%;
+     margin:0 auto;
+    padding:40px 0px;
+}
+    .about-four{
+      width:100%;
+     margin:0 auto;
+    padding: 0px;
+}
+    .flex-end{
+        display: flex;
+        flex-direction: column;
+    }
+    .icon-face{
+    padding-left:0px;
+}
+    .cope-right{
+        margin-bottom:20px;
+    }
+}

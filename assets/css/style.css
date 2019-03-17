@@ -1,0 +1,851 @@
+/* Font Name : Montserrat*/
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed');
+/*
+* Project Name : ;
+* Project Author :;
+* Project Start Date :;
+* Version : 1.0;
+* All Section 
+*	1.Header
+*   2.Banner
+*/
+.container{
+    padding: 0px 95px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    margin: 0 px;
+    padding: 0 px;
+    font-family:'Montserrat', sans-serif;
+    
+}
+a{
+   
+    text-decoration: none;
+    color: #000;
+}
+ul{
+    margin: 0 px;
+    padding: 0 px;
+    list-style-type: none;
+    
+    }
+
+.section-meet{
+    background-color:#002c42;
+}
+.flex-meet{
+    text-align: center;
+    padding: 18px 0;
+    
+}
+.flex-meet p{
+    color: #ffff;
+    font-size:16px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.logo{
+    color: #ffaa01;
+}
+
+/**/
+
+.flex-facdori{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 24px 0;
+}
+.flex-mon{
+    
+}
+.flex-mon h4{
+    font-size:20px;
+    color: #002c42;
+      font-family: 'Barlow Semi Condensed', sans-serif;
+    
+}
+.flex-mon p{
+    font-size:16px;
+    color: #7f8284;
+    padding-bottom:12px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.icon-clockk{
+    
+    font-size:40px;
+    color: #ffaa01;
+    padding-bottom:20px;
+}
+.phone{
+    padding-left:18px;
+}
+.factor{
+    padding: 0px 140px;
+}
+.mark{
+   padding-left:18px;  
+}
+/*end*/
+
+
+/*home-section start*/
+.home-section{
+    padding: 32px 42px;
+     background-color:#ffaa01;
+    
+}
+.page ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #042f45;
+    font-size:18px;
+    letter-spacing:3px;
+   
+}  
+/*home-section end*/
+
+/**/
+.buile-section
+{
+    background-image: url(../img/minhaz1.png);
+}
+.flex-buile{
+    padding: 180px 0px;
+    text-align: center;
+}
+.flex-buile h1{
+font-size:110px;
+font-family: 'Barlow Semi Condensed', sans-serif;
+padding: 0px 200px;
+    color: #ffffff;
+}
+.butten{
+    padding-top:60px;
+}
+.btn{
+    padding:30px 56px;
+    background-color:#ffaa01;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    text-transform: uppercase;
+    color: #002c42;
+}
+.btn:hover{
+    background-color:red;
+    transition:2s;
+}
+/**/
+.flex-get{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:120px;
+    
+}
+.get-left h6{
+    font-size:16px;
+    color:#a7a9aa;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing:2px;
+    padding-right:55px
+ 
+}
+.get-hr{
+    width:126px;
+    text-align: center;
+    margin-left:302px;
+    border:1px solid #ffaa01;
+    margin-top:10px;
+}
+.get-left h1{
+    padding: 18px 0px;
+    font-size:60px;
+    padding: 0px 170px;
+    color: #002c42;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    padding-bottom:62px;
+}
+.get-left p{
+font-size:16px;
+color:#7f8284;
+padding:0 100px;
+font-family: 'Barlow Semi Condensed', sans-serif;
+  
+   
+}
+.let-1{
+    text-align: center;
+    padding-top:65px;
+    padding-right:20px;
+}
+.free-phone{
+    font-size: 50px;
+    padding:50px;
+    background:#ffaa01;
+    border-radius:100%;
+    color:#062f40;
+}
+.let-1 h4{
+    padding-top:30px;
+    color:#949698;
+    font-size:20px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.let-1 h2{
+    padding-top:24px;
+    font-size:40px;
+    color: #002c42;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.bleog{
+    width: 300px;
+    height:370px;
+    background-color:#002c42;
+ 
+}
+.year{
+    margin-top:20px;
+     width: 300px;
+    height:270px;
+    background-color:#f3f3f3;
+}
+.year h1{
+    padding:0 20px;
+    padding-top:60px;
+    font-size:30px;
+    color:#002c42;
+      font-family: 'Barlow Semi Condensed', sans-serif;
+}
+/*ens*/
+
+.work-that{
+  background-image: url(../img/minhaz1.png);
+}
+.flex-work-that{
+    padding:120px 0px;
+    text-align: center;
+}
+.flex-work-that h1{
+    font-size:70px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color:#ffff;
+    padding:0px 300px;
+    
+} 
+.btn-3{
+   padding:30px 70px;
+    background-color:#ffaa01;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    text-transform: uppercase;
+}
+.button-2{ 
+    padding-top:70px;
+}
+.btn-3:hover{
+    background-color:#c7c9ca;
+    transition:2s;
+}
+/*end*/
+
+
+/*.chakec-section start*/
+.chakec-section{
+    background-color:#f3f3f3;
+}
+.flex-chakec{
+    display: flex;
+}
+.flex-chakce-left{
+    padding:185px 50px;
+
+}
+.flex-chakce-left h1{
+    font-size:60px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color:#002c42;
+  
+}
+.btnn{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    text-transform: uppercase;
+    padding:28px 38px;
+    color: #002c42;
+    background-color:#ffaa01;
+    font-size:18px;
+}
+.btnn:hover{
+    background-color: #c601ff;
+      transition:2s; 
+}
+.buttnn{
+    padding-top:75px;
+    
+}
+.flex-chakc-right{
+    padding:120px 0px;
+    
+}
+.flex-due{
+    background-color:#002c42;
+    padding:0px 78px;
+}
+.underline-small{
+    font-size:16px;
+    text-transform:uppercase;
+    color: #cbcccd;
+}
+.hr{
+    width: 100px;
+    border:2px solid #fea901;
+    margin-top: 12px;
+    margin-bottom:18px;
+}
+.icon-pasue{
+    margin-top:80px;
+   font-size:10px;
+    padding:25px;
+    background:#ffaa01;
+    border-radius:100%;
+    color:#062f40;
+}
+.flex-due p{
+    font-size:28px;
+    padding-top:40px;
+    color:#ffff;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.hr-one{
+    margin:48px 0px;
+    border:2px solid #0d374c;
+}
+.rose img{
+ width:150px;
+ height:150px;
+}
+.rose{
+    display: flex;
+    padding-bottom:80px;
+    
+}
+.circkel{
+    padding-top:28px;
+    padding-left:20px;
+
+}
+.circkel h2{
+    color: #ffaa01;
+    font-size:24px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+   
+}
+.circkel h6{
+    font-size:16px;
+    padding-top:10px;
+    color: #6b7e89;
+}
+
+/*.hr{
+    width:100px;
+    margin-top:20px;
+    border:1px solid red;
+    
+}*/
+/*.chakec-section end*/
+.flex-project{
+    text-align: center;
+}
+.flex-project h6{
+    padding-top:120px;
+    font-size:16px;
+    text-transform: uppercase;
+    letter-spacing:2px;
+    color:#a7a9aa;
+    padding-bottom:20px;
+}
+.our-hr{
+    width:120px;
+    text-align: center;
+    margin-left:600px;
+    border:2px solid #fea901;
+    margin-bottom:20px;
+        
+}
+.flex-project h1{
+    font-size:60px;
+    letter-spacing:1px;
+    color:#002c42;
+    padding-bottom:60px;
+}
+/**/
+
+/*welding-section start*/
+.welding-section{
+    background-color: #001d2b;
+}
+.flex-welding{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.precess-one{
+    width:25%;
+    color:#ffff;
+    font-size:40px;
+     font-family: 'Barlow Semi Condensed', sans-serif;
+    border-left:2px solid #ffff;
+    padding:460px 0px 60px 30px;
+    
+}
+.birds{
+     width:25%;
+     color:#ffff;
+     font-family: 'Barlow Semi Condensed', sans-serif;
+     border-left:2px solid #ffff;
+     padding:280px 0px 0px 30px;
+}
+
+.birds-one{
+    font-size:40px;
+   padding-bottom:38px;
+    }
+.birds p{
+    font-size:18px;
+    padding-bottom:60px;
+}
+.bnt-nme{
+    color:#002c42;
+    background-color:#ffaa01;
+    padding:22px 50px;
+    font-size:16px;
+}
+.bnt-nme:hover{
+     background-color:#30e011;
+     transition:2sc;
+      
+}
+/*welding-section end*/
+
+/*start*/
+.flex-pepole{
+    display:flex;
+    padding: 118px 118px;
+}
+.pepole-left{
+    width:40%
+}
+.hrp{
+    border:2px solid #ffaa01;
+    width:170px;
+    margin-top:10px;
+    margin-bottom:18px;
+    
+}
+.pepole-left h4{
+    font-size:16px;
+    color: #7f8284;
+     font-family: 'Barlow Semi Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing:2px;
+}
+.pepole-left h1{
+    font-size:60px;
+    color: #002c42;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    letter-spacing:1px;
+    padding-bottom:60px;
+}
+.bnt-red{
+    color: #002c42;
+    padding:30px 50px;
+    background-color:  #ffaa01;
+    font-size:16px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.bnt-red:hover{
+    background-color:#314f60;
+    transition:2s;
+}
+.pepole-right{
+    width:30%;
+    padding-left:20px;
+    
+}
+
+.pepole-right-one{
+      width:30%; 
+     padding-left:70px;
+}
+.securitay p{
+    padding-bottom: 68px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color:#8a8c8e;
+    font-size:16px;
+}
+.slid-secu{
+    display: flex;
+}
+.icob-con {
+    font-size:60px;
+    color: #ffaa01;
+    padding-bottom:60px;
+    padding-right:30px;
+}
+.hone{
+    color: #002c42;
+    font-size:24px;
+      font-family: 'Barlow Semi Condensed', sans-serif;
+    
+}
+/*end*/
+/*paka start*/
+.paka{
+    padding-top:264px;
+    border-top:2px solid #f3f3f3;
+    color: #ffffff;
+}
+/*paka end*/
+
+/*complet-section end*/
+.complet-section{
+    background-color:#002c42;
+}
+.flex-complet{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:184px 0px;
+}
+.complet-left h1{
+    color:#ffffff;
+    font-size:130px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    padding-bottom:30px;
+}
+.complet-left h4{
+    font-size:20px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color:#ffffff;
+}
+.hr-left{
+    border-right:2px solid #0d374c;
+}
+.span{
+    color:#ffaa01;
+}
+/*complet-section start*/
+
+/**/
+.fell-section{
+    
+}
+.flex-fell{
+    display: flex;
+    padding:110px 0px;
+}
+.fell-left h6{
+    font-size:16px;
+    text-transform: uppercase;
+    color: #a7a9aa;
+    letter-spacing:2px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.hrmi{
+    width:155px;
+    border:2px solid #fea901;
+    margin-top:10px;
+}
+.fell-right{
+    width:50%;
+}
+.fell-left{
+    width:50%;
+}
+.fell-left h1{
+   padding-top:18px; 
+    font-size:60px;
+     font-family: 'Barlow Semi Condensed', sans-serif;
+    color: #002c42;
+}
+.fell-left p{
+    padding-top:66px;
+    font-size: 20px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+     color: #a7a9aa;
+    padding-bottom:22px;
+    letter-spacing:1px;
+}
+.fell-left h2{
+    color: #ffaa01;
+    font-size:40px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    padding-bottom:66px;
+}
+.fell-left h5{
+    font-size: 20px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+     color: #a7a9aa;
+    letter-spacing:1px;
+}
+.fell-left h3{
+     color: #ffaa01;
+    font-size:40px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    padding-top:22px;
+}
+
+.inputt{
+           padding:32px  500px 32px 36px;
+           font-family: 'Barlow Semi Condensed', sans-serif;
+           background-color:#f3f3f3;
+           font-size:16px;
+           border:1px solid #f3f3f3;
+}
+.your-phone{
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+.inputtmi{
+    padding:70px  500px 100px 36px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color:#f3f3f3;
+    font-size:16px;
+    border:1px solid #f3f3f3;
+}
+.yo-phone{
+   padding-bottom:50px;
+}
+.bnttn{
+    padding:36px 60px;
+    background-color: #ffaa01;
+    color: #002c42;
+    font-size: 18px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.bnttn:hover{
+    background-color: #09a1ee;
+    transition:2s;
+}
+/*end*/
+
+/*start*/
+.updet-section{
+    background-color:#001d2b;
+}
+.flex-updet{
+    display: flex;
+    padding:42px 0px;
+}
+.updet-sing{
+    display: flex;
+  
+}
+.now{
+    display: flex;
+     
+}
+.icon-box{
+    font-size:50px;
+    color:#ffaa01;
+}
+.updet-sing h4{
+    padding-left:22px;
+    padding-top:18px;
+    font-size:24px;
+    color:#ffff;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.y-phone{
+    padding-left:100px;
+
+}
+.inpu{
+    padding:22px  450px 22px 36px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color:#f3f3f3;
+    font-size:16px;
+    border:1px solid #f3f3f3; 
+    text-transform: capitalize;
+}
+.mibnt{
+    padding:22px 22px;
+    background-color: #ffaa01;
+    color: #002c42;
+    font-size: 16px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    text-transform: uppercase;
+   
+}
+/*end*/
+
+/*start*/
+
+.about-us{
+    background-color: #002c42;
+    border-bottom:2px solid #1a4255;
+        
+}
+.flex-about{
+    display: flex;
+    padding:106px 0px;
+}
+.about-one{
+    width:25%;
+}
+.about-one h2{
+    font-size:20px;
+     font-family: 'Barlow Semi Condensed', sans-serif;
+    color: #ffff;
+    padding-bottom:30px;
+} 
+.about-one p{
+    font-size:16px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color:#ffff;
+    padding-right:30px;
+    padding-bottom:26px;
+    letter-spacing:1px;
+    
+}
+.inmt{
+    padding: 45px 70px;
+}
+.map-ion{
+    display: flex;
+    padding-top:20px;
+}
+.map-ion h3{
+    font-size:16px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: #ffff;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.icon-map{
+    font-size: 30px;
+    color: #ffaa01;
+    padding-right: 10px;
+    
+   
+}
+.about-tow{
+      width:25%;
+    
+}
+.about-tow h2{
+     font-size:20px;
+     font-family: 'Barlow Semi Condensed', sans-serif;
+    color: #ffff;
+    padding-bottom:20px;
+}
+.about-tow ul li{
+    padding:10px 0px;
+}
+.about-tow ul li a{
+    color: #ffff;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 16px;
+    
+}
+.price{
+   margin-left:100px;
+    margin-top:-200px;
+   
+}
+.about-three{
+      width:25%;
+}
+.about-three h2{
+     font-size:20px;
+     font-family: 'Barlow Semi Condensed', sans-serif;
+    color: #ffff;
+    padding-bottom:10px;
+}
+.about-three ul li a{
+    color: #ffff;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 16px;
+}
+.about-three ul li{
+      padding:10px 0px;
+}
+.about-four{
+      width:25%;
+}
+.mid{
+    display: flex;
+}
+.mid ul li a{
+    color:#ffff;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size:20px;
+}
+.mid-one{
+    display: flex;
+    padding-top:40px;
+    padding-bottom:40px;
+}
+.mid-one ul li a{
+    color:#ffff;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size:20px;
+}
+.mid-tow{
+    display: flex;
+}
+.mid-tow ul li a{
+     color:#ffff;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size:20px;
+}
+.icon-square{
+    font-size:30px;
+    padding-right:24px;
+    color: #ffaa01;
+}
+/*end*/*
+
+
+
+/*start*/
+.end-section{
+    background-color:#002c42
+}
+.flex-end{
+    display: flex;
+    padding: 42px 0px;
+    
+}
+.flex-end p{
+    color:#ffff;
+    font-size: 18px;
+}
+.icon-face{
+  padding-left:600px;
+}
+.icon-face a{
+    padding-left: 10px;
+}
+.icon-facebook{
+    border-radius:100%;
+    background-color:#ffaa01;
+    padding:30px 30px;
+    color:#002c42;
+    
+}
+.icon-tui{
+    border-radius:100%;
+    background-color:#ffff;
+    padding:30px 30px;
+    color:#949494;   
+}
